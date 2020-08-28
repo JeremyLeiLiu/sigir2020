@@ -6,7 +6,7 @@ layout: default
 
 # {{ page.title }}
 
-SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 78 volunteers from 15 countries around the world. Our volunteer leaders are responsible for Publicity, Virtual Conference Portal and Virtual Discussion Rooms respectively, while our volunteers are responsible for Publicity, Keynotes or Full Paper Presentations and Virtual Discussion Rooms. We list our volunteer leaders and volunteers in the following.
+SIGIR 2020 features 8 volunteer leaders and 78 volunteers from 15 countries around the world. Our volunteer leaders are responsible for Publicity, Virtual Conference Portal and Virtual Discussion Rooms respectively. Our volunteers are responsible for Publicity, Keynotes or Full Paper Presentations and Virtual Discussion Rooms. We are grateful for the contributions made by all the volunteers and list their names in the following.
 
 <hr>
 ## Leaders
@@ -32,20 +32,11 @@ SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 78 volunteers
 |    Qiang Huang    |         Jilin University         |  China  |
 |      Bo Wang      |         Jilin University         |  China  |
 | Sherry Runjie Zhu |          York University         |  Canada |
-|    Zhining Liu    |         Jilin University         |  China  |
 |       Sha Li      | Taiyuan University of Technology |  China  |
-|     Yumin Chen    | Taiyuan University of Technology |  China  |
+|    Zhining Liu    |         Jilin University         |  China  |
 |       Yu Li       |         Jilin University         |  China  |
 |     Huaqi Gao     |          York University         |  Canada |
-
-<hr>
-## Volunteers (Virtual Hangout Room)
-
-|          Name        |         Affiliation        | Country |   Note    |
-|:--------------------:|:--------------------------:|:-------:|:---------:|
-|       Long Xia       |       York University      |  Canada | Organizer |
-|      Jiaxin Mao      |    Tsinghua University     |  China  | Organizer |
-| Jiashu (Jessie) Zhao | Wilfrid Laurier University |  Canada | Organizer |
+|     Yumin Chen    | Taiyuan University of Technology |  China  |
 
 <hr>
 ## Volunteers (Keynotes or Full Paper Presentations)
@@ -134,3 +125,12 @@ SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 78 volunteers
 |         Yu Zhang        |     University of Illinois at Urbana-Champaign     |       USA      |           |
 |        Xuan Zhao        |                   York University                  |     Canada     |           |
 |    Sherry Runjie Zhu    |                   York University                  |     Canada     |           |
+
+<hr>
+## Volunteers (Virtual Hangout Room)
+
+|          Name        |         Affiliation        | Country |   Note    |
+|:--------------------:|:--------------------------:|:-------:|:---------:|
+|       Long Xia       |       York University      |  Canada | Organizer |
+|      Jiaxin Mao      |    Tsinghua University     |  China  | Organizer |
+| Jiashu (Jessie) Zhao | Wilfrid Laurier University |  Canada | Organizer |
