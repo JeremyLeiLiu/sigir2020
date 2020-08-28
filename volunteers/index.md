@@ -6,7 +6,7 @@ layout: default
 
 # {{ page.title }}
 
-SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 77 volunteers from 13 countries around the world. Our volunteer leaders are responsible for Publicity, Virtual Conference Portal and Virtual Discussion Rooms respectively, while our volunteers are responsible for Publicity, Keynotes or Full Paper Presentations and Virtual Discussion Rooms. We list our volunteer leaders and volunteers in the following.
+SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 78 volunteers from 15 countries around the world. Our volunteer leaders are responsible for Publicity, Virtual Conference Portal and Virtual Discussion Rooms respectively, while our volunteers are responsible for Publicity, Keynotes or Full Paper Presentations and Virtual Discussion Rooms. We list our volunteer leaders and volunteers in the following.
 
 <hr>
 ## Leaders
@@ -27,10 +27,10 @@ SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 77 volunteers
 
 |        Name       |            Affiliation           | Country |
 |:-----------------:|:--------------------------------:|:-------:|
+|      Long Xia     |          York University         |  Canada |
 |   Jeremy Lei Liu  |          York University         |  Canada |
 |    Qiang Huang    |         Jilin University         |  China  |
 |      Bo Wang      |         Jilin University         |  China  |
-|      Long Xia     |          York University         |  Canada |
 | Sherry Runjie Zhu |          York University         |  Canada |
 |    Zhining Liu    |         Jilin University         |  China  |
 |       Sha Li      | Taiyuan University of Technology |  China  |
