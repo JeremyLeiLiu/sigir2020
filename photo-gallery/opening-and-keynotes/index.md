@@ -6,7 +6,7 @@ layout: default
 
 # {{ page.title }}
 
-<img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png" width="1500"/>
+<img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png" width="1000"/>
 
 ![]({{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png)
 
