@@ -6,6 +6,8 @@ layout: default
 
 # {{ page.title }}
 
+<br>
+
 <div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png" width="1000"/></div><br><br>
 
 <div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image6-19.png" width="1000"/></div><br><br>
