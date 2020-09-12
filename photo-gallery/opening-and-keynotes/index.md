@@ -6,9 +6,9 @@ layout: default
 
 # {{ page.title }}
 
-<img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png" class="center" width="1000"/>
+<p align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png" width="800"/></p>
 
-<img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image6-19.png" class="center" width="1000"/>
+<p align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image6-19.png" width="800"/></p>
 
 <img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image12-21.png" class="center" width="1000"/>
 
