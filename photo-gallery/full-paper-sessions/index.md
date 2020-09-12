@@ -1,5 +1,5 @@
 ---
-title: Full Paper Sessons
+title: Full Paper Sessions
 category: Photo Gallery
 layout: default
 ---
