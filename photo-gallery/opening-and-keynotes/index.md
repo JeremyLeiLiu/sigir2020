@@ -6,7 +6,7 @@ layout: default
 
 # {{ page.title }}
 
-<img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png" width="200" />
+<img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png" style="object-fit: contain"/>
 
 ![]({{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png)
 
