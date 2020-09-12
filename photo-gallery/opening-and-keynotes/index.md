@@ -6,10 +6,7 @@ layout: default
 
 # {{ page.title }}
 
-
-![]({{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png?style=centerme)
-
-<p align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png" width="800"/></p>
+<div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image10-17.png" width="800"/></div>
 
 <p align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/Opening & Keynotes/image6-19.png" width="800"/></p>
 
