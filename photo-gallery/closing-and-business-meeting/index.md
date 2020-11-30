@@ -8,6 +8,8 @@ layout: default
 
 <br>
 
+![] ({{ site.baseurl }}/assets/photo-gallery/closing & business meeting/image1-17.png)
+
 <div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/closing & business meeting/image1-17.png" width="1000"/></div><br><br>
 
 <div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/closing & business meeting/image2-19.png" width="1000"/></div><br><br>
