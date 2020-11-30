@@ -8,7 +8,7 @@ layout: default
 
 <br>
 
-<div><img src="{{ site.baseurl }}/assets/photo-gallery/closing & business meeting/image1-17.png" style="display:block; margin-left: auto; margin-right: auto;"/></div><br><br>
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/photo-gallery/closing & business meeting/image1-17.png"/></div><br><br>
 
 <div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/closing & business meeting/image2-19.png" width="1000"/></div><br><br>
 
