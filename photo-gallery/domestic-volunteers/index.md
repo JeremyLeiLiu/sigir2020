@@ -20,7 +20,7 @@ layout: default
 <div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/domestic volunteers/image4-23.jpeg" width="1000"/></div>
 <div align="center"><h4 style="text-align:center">Get ready for the live broadcast of full paper sessions</h4></div><br><br>
 
-<div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/domestic volunteers/image5-25.jpeg" width="1000"/></div>
+<div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/domestic volunteers/image5-25.jpeg" width="1000" class="rotateimg180"/></div>
 <div align="center"><h4 style="text-align:center">Eating Pizza for lunch</h4></div><br><br>
 
 <div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/domestic volunteers/image6-27.jpeg" width="1000"/></div>
