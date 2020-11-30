@@ -6,9 +6,7 @@ layout: default
 
 # {{ page.title }}
 
-<br>
-
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/photo-gallery/closing & business meeting/image1-17.png" style="width: 95%; margin-top: 1%; margin-left: 2%;"/></div><br><br>
+<div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/closing & business meeting/image1-17.png" style="width: 95%;"/></div><br><br>
 
 <div align="center"><img src="{{ site.baseurl }}/assets/photo-gallery/closing & business meeting/image2-19.png" width="1000"/></div><br><br>
 
