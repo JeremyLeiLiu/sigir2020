@@ -73,7 +73,7 @@ SIGIR 2020 features 8 volunteer leaders and 78 volunteers from 15 countries arou
 |  Yanqiao Zhu |             Chinese Academy of Sciences            |  China  |           |
 
 <hr>
-## Volunteers (Virutal Discussion Rooms)
+## Volunteers (Virtual Discussion Rooms)
 
 |           Name          |                     Affiliation                    |     Country    |    Note   |
 |:-----------------------:|:--------------------------------------------------:|:--------------:|:---------:|
