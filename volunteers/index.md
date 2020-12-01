@@ -6,7 +6,9 @@ layout: default
 
 # {{ page.title }}
 
-SIGIR 2020 features 8 volunteer leaders and 78 volunteers from 15 countries around the world. Our volunteer leaders are responsible for Publicity, Virtual Conference Portal and Virtual Discussion Rooms respectively. Our volunteers are responsible for Publicity, Keynotes or Full Paper Presentations and Virtual Discussion Rooms. We are grateful for the contributions made by all the volunteers and list their names in the following.
+Due to the global pandemic of COVID-19, SIGIR 2020 was held on July 25-30, 2020 as a fully virtual conference for the first time in SIGIR history. Despite the challenges in hosting an online conference, the organizers tried their utmost to provide the attendees with the best services and support throughout the conference. Along with that, our volunteers devoted themselves to the conference and worked tirelessly to ensure a successful virtual event, for which we are very grateful.
+
+SIGIR 2020 features 8 volunteer leaders and 78 volunteers from 15 countries around the world. Our volunteers are mainly responsible for the Virtual Conference Portal, Publicity, Keynotes or Full Paper Presentations, Virtual Discussion Rooms and Virtual Hangout Room. SIGIR 2020 would not have been such a success if our volunteers had not been there. We appreacite and hereby acknowledge the contributions made by every volunteer by listing their names as follows. Thank you all!
 
 <hr>
 ## Leaders
@@ -19,7 +21,7 @@ SIGIR 2020 features 8 volunteer leaders and 78 volunteers from 15 countries arou
 |   Zhicheng Dou   |    Renmin University of China    |  China  |      Virtual Conference Portal       |
 |    Jiafeng Guo   |    Chinese Academy of Sciences   |  China  |      Virtual Conference Portal       |
 |    Jiaxin Mao    |       Tsinghua University        |  China  |      Virtual Conference Portal       |
-|  Jeremy Lei Liu  |         York University          |  Canada |      Virtual Discussion Rooms        |
+|      Lei Liu     |         York University          |  Canada |      Virtual Discussion Rooms        |
 |     Weizhi Ma    |       Tsinghua University        |  China  |      Virtual Conference Portal       |
 
 <hr>
@@ -28,7 +30,7 @@ SIGIR 2020 features 8 volunteer leaders and 78 volunteers from 15 countries arou
 |        Name       |            Affiliation           | Country |
 |:-----------------:|:--------------------------------:|:-------:|
 |      Long Xia     |          York University         |  Canada |
-|   Jeremy Lei Liu  |          York University         |  Canada |
+|      Lei Liu      |          York University         |  Canada |
 |    Qiang Huang    |         Jilin University         |  China  |
 |      Bo Wang      |         Jilin University         |  China  |
 | Sherry Runjie Zhu |          York University         |  Canada |
@@ -75,7 +77,7 @@ SIGIR 2020 features 8 volunteer leaders and 78 volunteers from 15 countries arou
 
 |           Name          |                     Affiliation                    |     Country    |    Note   |
 |:-----------------------:|:--------------------------------------------------:|:--------------:|:---------:|
-|      Jeremy Lei Liu     |                   York University                  |     Canada     | Organizer |
+|         Lei Liu         |                   York University                  |     Canada     | Organizer |
 |      Kimiya Keyvan      |                   York University                  |     Canada     | Organizer |
 |       Ellen Huang       |                  Maple High School                 |     Canada     | Organizer |
 | Md Tahmid Rahman Laskar |                   York University                  |     Canada     | Organizer |
