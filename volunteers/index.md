@@ -8,7 +8,7 @@ layout: default
 
 Due to the global pandemic of COVID-19, SIGIR 2020 was held on July 25-30, 2020 as a fully virtual conference for the first time in SIGIR history. Despite the challenges in hosting an online conference, the organizers tried their utmost to provide the attendees with the best services and support throughout the conference. Along with that, our volunteers devoted themselves to the conference and worked tirelessly to ensure a successful virtual event, for which we are very grateful.
 
-SIGIR 2020 features 8 volunteer leaders and 78 volunteers from 15 countries around the world. Our volunteers are mainly responsible for the Virtual Conference Portal, Publicity, Keynotes or Full Paper Presentations, Virtual Discussion Rooms and Virtual Hangout Room. SIGIR 2020 would not have been such a success if our volunteers had not been there. We appreacite and hereby acknowledge the contributions made by every volunteer by listing their names as follows. Thank you all!
+SIGIR 2020 features 8 volunteer leaders and 78 volunteers from 15 countries around the world. Our volunteers are mainly responsible for the Virtual Conference Portal, Publicity, Keynotes or Full Paper Presentations, Virtual Discussion Rooms and Virtual Hangout Room, respectively. SIGIR 2020 would not have been such a success if our volunteers had not been there. We appreacite and hereby acknowledge the contributions made by every volunteer by listing their names below. Again, thank you all!
 
 <hr>
 ## Leaders
